@@ -16,8 +16,7 @@
 			"id": "hello",
 			"date": "1979-11-14",
 			"recipient": {
-				"name": "Jeff Whiting",
-				"address": "622 Wildflower Circle Salem UT 84653"
+				"name": "Jeff Whiting"
 			},
 			"currency": "$",
 			"services": [
